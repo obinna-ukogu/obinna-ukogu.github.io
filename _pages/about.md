@@ -2,32 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://amath.washington.edu/'>University of Washington</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an applied mathematician with expertise in stochastic processes, dynamical systems, optimization and agentbased simulations. My recent research projects have investigated signal processing in the adaptive immune response, immune control of the gut microbiota and colorectal cancer initiation. I have a passion for synergizing experiments, simulations and theory to study complex systems and generate testable predictions.
+I am an incoming Urbanek-Chodorow postdoctoral fellow at Stanford University, working with [Daniel Fisher](https://profiles.stanford.edu/daniel-fisher) and [Benjamin Good](https://bgoodlab.github.io/). My research motivates innovative treatments for cancer, autoimmunity, and allergies by developing quantitative models of the immune response. I investigate how functional objectives---such as specificity, sensitivity, homeostasis, and metabolic cost---shape immune signaling and decision-making. I am an applied mathematician with expertise in stochastic processes, dynamical systems, optimization and agent-based simulations. 
+
+I received my Ph.D. in Applied Mathematics at the University of Washington under the supervisoin of [Armita Nourmohammad](https://medicine.yale.edu/immuno/profile/armita-nourmohammad/). My previous research projects investigated signal processing in the adaptive immune response, immune control of the gut microbiota and colorectal cancer initiation. I have a passion for synergizing experiments, simulations and theory to study complex systems and generate testable predictions.
+
+Previously, I received a B.A. in Mathematics and Biochemistry & Biophysics from Amherst College, where I worked under [Ashley Carter](https://www.carterlaboratory.com/) studying how DNA is condensed and stored in sperm cells. I also worked on projects in number theory and mathematical biology with [Amanda Folson](https://afolsom.people.amherst.edu/) and [Tanya Leise](https://en.wikipedia.org/wiki/Tanya_Leise).
+
+The best way to reach me is via email at oukogu[at]uw[dot]edu.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
