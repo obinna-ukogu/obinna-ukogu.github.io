@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
 I am an incoming Urbanek-Chodorow postdoctoral fellow at Stanford University, working with [Daniel Fisher](https://profiles.stanford.edu/daniel-fisher) and [Benjamin Good](https://bgoodlab.github.io/). My research motivates innovative treatments for cancer, autoimmunity, and allergies by developing quantitative models of the immune response. I investigate how functional objectives---such as specificity, sensitivity, homeostasis, and metabolic cost---shape immune signaling and decision-making. I am an applied mathematician with expertise in stochastic processes, dynamical systems, optimization and agent-based simulations. 
