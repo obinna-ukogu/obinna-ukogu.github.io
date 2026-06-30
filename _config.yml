@@ -239,6 +239,19 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - _news/
+  - _pages/blog.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _posts/
+  - _books/
+  - _projects/
+  - _teachings/
+  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
