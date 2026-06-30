@@ -18,7 +18,7 @@ I received my Ph.D. in Applied Mathematics at the University of Washington under
 
 Previously, I received a B.A. in Mathematics and Biochemistry & Biophysics from Amherst College, where I worked under [Ashley Carter](https://www.carterlaboratory.com/) studying how DNA is condensed and stored in sperm cells. I also worked on projects in number theory and mathematical biology with [Amanda Folson](https://afolsom.people.amherst.edu/) and [Tanya Leise](https://en.wikipedia.org/wiki/Tanya_Leise).
 
-The best way to reach me is via email at oukogu[at]uw[dot]edu.
+Check out my [CV](/assets/pdf/CV_Obinna_Ukogu.pdf)! The best way to reach me is via email at oukogu[at]uw[dot]edu.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
