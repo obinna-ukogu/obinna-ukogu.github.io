@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://amath.washington.edu/'>University of Washington</a>
+subtitle: <a href='https://appliedphysics.stanford.edu/about/student-and-postdoc-awards'>Stanford University</a>
 
 profile:
   align: right
